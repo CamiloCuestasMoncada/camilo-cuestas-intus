@@ -17,8 +17,6 @@ export default {
   setup() {
     const games = ref([]);
     /* 
-    const apiUrl = process.env.GAMES_API_KEY;
-    const apiHost = process.env.GAMES_API_HOST;
     Las apikeys las tomaria del .env, pero al ser un ejercicio donde no tengo acceso a 
     variables de entorno ya que no tengo configurado node, las pongo aca directamente
     */
