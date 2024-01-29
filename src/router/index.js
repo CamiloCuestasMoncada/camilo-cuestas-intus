@@ -4,7 +4,7 @@ import FreeGamesOfWeek from "./../views/FreeGamesOfWeek.vue"
 import GamesOnSale from "./../views/GamesOnSale.vue"
 const routes = [
     {
-        path:'/',
+        path:'/camilo-cuestas-intus',
         name: "home",
         component: Home
     },

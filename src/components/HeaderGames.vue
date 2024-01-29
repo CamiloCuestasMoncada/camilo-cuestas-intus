@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <router-link to="/">
+    <router-link to="/camilo-cuestas-intus">
       <img src="./../assets/logo_home.png" alt="Logo" class="logo" />
     </router-link>
     <button @click="openFavoritesModal" class="favorites-button">
